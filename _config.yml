@@ -1,6 +1,11 @@
-title: Venkat Swamy Mannam
-logo: /assets/img/logo.jpg
-description: This is my first webpage of profile.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: <p align="center"> Venkat Swamy Mannam </p>
+![Logo](/assets/img/logo.jpg)
+
+description:
+  <p align="center">
+   
+  <br>   
+  I'm working as Data Visualisation and Business insight anlyst.
+  Also now learnign the Python, Machine Learning and AI in upgrad.
+  <br>
+  </p>
